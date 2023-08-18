@@ -1,0 +1,21 @@
+ID,Rooms Name,STORY,NAVIGATION,option 1,option 2,option 3,win,loose,Stranger
+1,Home,In your dream house! Its so beautiful,"Press 1 to go to bedroom, press 2 to go to the parking lot, press 3 to go to the kitchen",2,17,4,0,0,12
+2,bedroom,You wake up feeling refreshed as the alarm rings ,"Press 1 to go to the bathroom, press 2 to go to the parking lot, press 3 to go to the coffee store",3,17,8,0,0,7
+3,bathroom,You go have your bath,"Press 1 to go back to the bedroom, press 2 to  sons room, press 3 to go to the kitchen",2,17,8,0,0,2
+4,kitchen,You go to the kitchen to make  breakfast for your son who is already late for school,"Press1, to go to the bar, press 2 to go to the parking lot, press 3 to go to back to sons room",15,17,5,0,0,1
+5,son room,You go to your sons room to hurry him up ,"Press 1 to go the parking lot, Press 2 to go back to the kitchen, press 3 to go back to bedroom",17,4,2,0,0,2
+6,Car,You get in the car. ,"Press 1 to go to school, Press 2 to go to the Gas station, Press 3 to Grocery Store",7,12,20,0,0,1
+7,School,"You kiss him goodbye, telling him to be a good boy. You miss him already.","Press 1 to go to Coffee store, Press 2 to go to the Gas station, Press 3 to go to the office",8,12,9,0,0,2
+8,Coffee Store ,"You need a hot coffee to start your day, so you get one. ","Press 1 to go to the office, Press 2 to go back home, press 3 to go to church.",9,1,18,0,0,3
+9,Office,You think about the truckload of work you have,"Press1, to go to the conference room, press 2 to go to the cafeteria, press 3 to go to to the infirmary",10,11,13,0,0,3
+10,Conference Room,You have a meeting with the board of directors,"Press 1 to go to back to your office, Press 2 to go to the airport, press 3 to go to the cafeteria .",9,19,11,0,0,6
+11,Cafeteria,You are hungry so you come to the cafeteria to eat.,"Press 1 to go to back to the office, Press 2 to go the infirmary, press 3 to go to the parking lot.",9,13,17,0,0,5
+12,Gas Station,You see your cars gas level is down. ,"Press 1 to go to back home, Press 2 to go back to the office, press 3 to go to the cinema.",1,9,14,0,0,3
+13,Infirmary ,"you get a little migraine, so you go get a prescription.","Press 1 to go to the office, Press 2 to go back home, press 3 to go to the parking lot.",9,1,17,0,1,6
+14,Cinema,You have a movie date with a friend,"Press 1 to go to the Bar, Press 2 to go to the football field, press 3 to go to the grocery store",15,17,20,0,0,12
+15,Bar,You go get some drinks,"Press 1 to go to back home, Press 2 to go gas station, press 3 to go to the Grocery store.",1,12,20,0,0,15
+16,Football Field,You go pick up your son from football training. You take him back home,"Press 1 to go back home, Press 2 to go to the cinema, press 3 to go to Church.",1,14,18,0,0,2
+17,Parking Lot,You are in the parking lot .,"Press 1 to go to the Car, Press 2 to go to the house, press 3 to go to office.",6,1,9,0,0,8
+18,Church,You are in the church to pray.,"Press 1 to go to back home, Press 2 to go to the grocery store, press 3 to go the cinema.",1,20,14,1,0,15
+19,Airport,You are in the airport.,"Press 1 to go to go back home, Press 2 to go back office, press 3 to go to Football field.",1,9,16,0,0,3
+20,Grocery Store,You go get some groceries for the house,"Press 1 to go back home , Press 2 to go the Gas Station , press 3 to go to the parking lot.",1,8,17,0,0,4
